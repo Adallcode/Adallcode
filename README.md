@@ -1,5 +1,5 @@
 - 👋 Hey, i'm Adoni.
-- 👀 I’m interested in Web Application and Video Games development.
+- 👀 I’m interested in Web and Video Games development.
 - 🌱 I have learned C/C++, Python, HTML, CSS, MySQL Database and I’m currently learning JAVASCRIPT, by doing some applications.
 
 - You can find one of my App that is live is here: https://gpapy.pythonanywhere.com/ and The README is:
